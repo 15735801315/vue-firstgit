@@ -1,6 +1,6 @@
 # first practice
 
-> graduate
+> practice
 
 ## Build Setup
 
